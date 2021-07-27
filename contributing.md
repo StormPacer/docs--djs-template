@@ -14,7 +14,7 @@
 
 Thank you for considering making a contribution to NamVr.
 
-Before contributing, please read the [code of conduct](code_of_conduct.md), which all contributors must follow.
+Before contributing, please read the [code of conduct](), which all contributors must follow.
 
 You don't need to write code to contribute; all contributions are welcome and encouraged. You could:
 
