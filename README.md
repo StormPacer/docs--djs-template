@@ -1,6 +1,8 @@
-# README
+---
+description: "Welcome to NamVr Discord Bot Template \U0001F44B"
+---
 
-Welcome to NamVr Discord Bot Template 👋
+# Welcome!
 
  ![Version](https://img.shields.io/badge/version-v2.0-blue.svg?cacheSeconds=2592000) [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/NamVr/DiscordBot-Template#readme) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/NamVr/DiscordBot-Template/graphs/commit-activity) [![Twitter: namanvrati](https://img.shields.io/twitter/follow/namanvrati.svg?style=social)](https://twitter.com/namanvrati)
 
@@ -55,16 +57,7 @@ npm run test
 
 ## Support & Documentation
 
-I'm working to make it more professional and easy to use for everyone. There will be a documentation out very soon.
-
-## Author
-
-👤 **Naman Vrati**
-
-* Website: [https://namanvrati.cf/](https://namanvrati.cf/)
-* Twitter: [@namanvrati](https://twitter.com/namanvrati)
-* Github: [@NamVr](https://github.com/NamVr)
-* LinkedIn: [@namanvrati](https://linkedin.com/in/namanvrati)
+I'm working to make it more professional and easy to use for everyone. You're on the right place for documentation!
 
 ## 🤝 Contributing
 
@@ -78,5 +71,5 @@ Give a ⭐️ if this project helped you! Star-ring the project gives me encoura
 ## 📝 License
 
 Copyright © 2021 [Naman Vrati](https://github.com/NamVr).  
- This project is [ISC](https://github.com/NamVr/DiscordBot-Template/blob/master/LICENSE) licensed.
+This project is [ISC](https://github.com/NamVr/DiscordBot-Template/blob/master/LICENSE) licensed.
 
