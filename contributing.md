@@ -18,28 +18,28 @@ Before contributing, please read the [code of conduct](), which all contributors
 
 You don't need to write code to contribute; all contributions are welcome and encouraged. You could:
 
-* [Submit a bug report](contributing.md#submitting-a-bug-report) issue
-* Help with bug triage
-* [Request a new feature \(or an improvement to an existing feature\)](contributing.md#submitting-a-feature-request)
-* [Improve documentation](contributing.md#updating-documentation) \(the [website](https://namanvrati.cf), or JSDoc comments\)
-* [Help translate](contributing.md#translating)
-* Create a tutorial \(a video or page on the docs\)
-* [Answer someone's question in Discussions](https://github.com/NamVr/DiscordBot-Template/discussions/categories/support-q-a?discussions_q=category%3A%22Support+%28Q%26A%29%22+is%3Aunanswered)
-* Respond to an issue or pull request
+* [Submit a bug report](contributing.md#submitting-a-bug-report),
+* Help with bug triage,
+* [Request a new feature \(or an improvement to an existing feature\)](contributing.md#submitting-a-feature-request),
+* [Improve documentation](contributing.md#updating-documentation) \(the [website](https://namanvrati.cf), or JSDoc comments\),
+* [Help translate](contributing.md#translating),
+* Create a tutorial \(a video or page on the documentation\),
+* [Answer someone's question in Discussions](https://github.com/NamVr/DiscordBot-Template/discussions/categories/support-q-a?discussions_q=category%3A%22Support+%28Q%26A%29%22+is%3Aunanswered),
+* Respond to an issue or pull request.
 
 If you want to contribute but don't know how, and this file doesn't answer your questions, [start a discussion](https://github.com/NamVr/../discussions/new) or [join the Discord support & community server](https://discord.gg/soon) to ask for guidance.
 
 **Issues are for:**
 
-* Bug reports
-* Requesting changes to existing features
+* Bug reports,
+* Requesting changes to existing features.
 
 Please label your issues appropriately.
 
 **Discussions are for:**
 
-* Support \(also on [Discord](https://discord.gg/soon)\)
-* General questions \(also on [Discord](https://discord.gg/soon)\)
+* Support \(also on [Discord](https://discord.gg/soon)\),
+* General questions \(also on [Discord](https://discord.gg/soon)\).
 
 Please read ["Welcome to NamVr Discussions!"](https://github.com/NamVr/DiscordBot-Template/discussions/..) before starting a discussion!
 
@@ -55,7 +55,7 @@ If you would like to request changes to an existing feature, it may be better to
 
 ## Creating a pull request
 
-To edit the documentation, translate, or contribute code to this project, you will need to [create a new pull request](https://github.com/NamVr/DiscordBot-Template/compare). For large changes, you should **consider creating an issue** \(or commenting on an existing one\) first, as it could save you some time.
+To edit the documentation, translate, or contribute your code to this project, you will need to [create a new pull request](https://github.com/NamVr/DiscordBot-Template/compare). For large changes, you should **consider creating an issue** \(or commenting on an existing one\) first, as it could save you some time.
 
 You should name your commits using [**this commit message format**](https://github.com/angular/material/blob/master/.github/CONTRIBUTING.md#-commit-message-format).
 
@@ -65,17 +65,17 @@ Any code changes should be accompanied by any necessary documentation changes.
 
 **You should install the ESLint extension in your editor** to help you follow the code style.
 
-* Use single quotes
-* Indentation should use tabs not spaces
-* Classes should be named in PascalCase
-* Functions should be named in camelCase
-* Variables and constants should be named in snake\_case
-* Use the latest JS features \(destructuring, arrow functions etc\)
-* Use the British spelling \(colour not color\), except where it sucks \(center not centre\)
+* Use single quotes,
+* Indentation should use tabs not spaces,
+* Classes should be named in PascalCase,
+* Functions should be named in camelCase,
+* Variables and constants should be named in snake\_case,
+* Use the latest JS features \(destructuring, arrow functions etc\),
+* Use the British spelling \(colour not color\), except where it sucks \(center not centre\).
 
 ### Translating
 
-Please try to keep the meaning of the translation as close to the original as possible. If you want to change the meaning, you can customise your locale files after.
+Please try to keep the meaning of the translation as close to the original as possible. If you want to change the meaning, you can customize your locale files after.
 
 -- Not Available --
 
